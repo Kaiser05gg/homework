@@ -75,17 +75,16 @@
  }
 
  header {
-   background-color: #0052a5;
    color: white;
    text-align: center;
    background: url('corporate.jpg') center/cover no-repeat;
-   text-align: center;
-   padding: 10px 0;
-
+   background-size: cover;
+   font-size: 24px;
  }
 
  .top-bar {
-   background-color: #0052a5;
+   background-color: #125ca7;
+   background-size: cover;
    font-size: 24px;
    font-weight: bold;
    margin-top: auto;
@@ -93,7 +92,8 @@
 
  nav {
    background-color: #03578e (7, 5, 121, 0.138);
-   padding: 10px 0;
+   background-size: 914, 55;
+
  }
 
  nav ul {
